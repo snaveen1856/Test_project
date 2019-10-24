@@ -26,4 +26,5 @@ with open(fname) as f:
         opt=input('Write another record [y/n]: ')
         if opt in('n','N'):
             break
+       
 
